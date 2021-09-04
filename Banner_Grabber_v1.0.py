@@ -30,11 +30,13 @@ def banniere() :
         os.system('clear')
     text="DarkCarders007"
     cprint(figlet_format(text, font="standard"), "green")
-    print('https://t.me/DarkCarders007')
     print(colored.blue("DarkTools : Banner_Grabber"))
     print(colored.red("-- Version 1.0 --"))
     print(colored.yellow("Realease: 26/08/2021"))
     print(colored.magenta("Banner_Grabber By DarkCarders007 "))
+    print(colored.cyan('https://t.me/DarkCarders007'))
+    print(colored.green('https://github.com/DarkCarders007'))
+    print(colored.red('https://www.youtube.com/channel/UC7kyGeHDb9YwY-3YjEksEqw'))
 
 
 def menubase():
